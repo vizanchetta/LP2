@@ -1,0 +1,10 @@
+C:\Users\vizan\source\repos\SomaLadosTriangulo\SomaLadosTriangulo\bin\Debug\SomaLadosTriangulo.exe.config
+C:\Users\vizan\source\repos\SomaLadosTriangulo\SomaLadosTriangulo\bin\Debug\SomaLadosTriangulo.exe
+C:\Users\vizan\source\repos\SomaLadosTriangulo\SomaLadosTriangulo\bin\Debug\SomaLadosTriangulo.pdb
+C:\Users\vizan\source\repos\SomaLadosTriangulo\SomaLadosTriangulo\obj\Debug\SomaLadosTriangulo.csprojAssemblyReference.cache
+C:\Users\vizan\source\repos\SomaLadosTriangulo\SomaLadosTriangulo\obj\Debug\SomaLadosTriangulo.Properties.Resources.resources
+C:\Users\vizan\source\repos\SomaLadosTriangulo\SomaLadosTriangulo\obj\Debug\SomaLadosTriangulo.csproj.GenerateResource.cache
+C:\Users\vizan\source\repos\SomaLadosTriangulo\SomaLadosTriangulo\obj\Debug\SomaLadosTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\vizan\source\repos\SomaLadosTriangulo\SomaLadosTriangulo\obj\Debug\SomaLadosTriangulo.exe
+C:\Users\vizan\source\repos\SomaLadosTriangulo\SomaLadosTriangulo\obj\Debug\SomaLadosTriangulo.pdb
+C:\Users\vizan\source\repos\SomaLadosTriangulo\SomaLadosTriangulo\obj\Debug\SomaLadosTriangulo.TRI.resources

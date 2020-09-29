@@ -1,0 +1,9 @@
+C:\Users\vizan\source\repos\PesoIdealPessoa\PesoIdealPessoa\bin\Debug\PesoIdealPessoa.exe.config
+C:\Users\vizan\source\repos\PesoIdealPessoa\PesoIdealPessoa\bin\Debug\PesoIdealPessoa.exe
+C:\Users\vizan\source\repos\PesoIdealPessoa\PesoIdealPessoa\bin\Debug\PesoIdealPessoa.pdb
+C:\Users\vizan\source\repos\PesoIdealPessoa\PesoIdealPessoa\obj\Debug\PesoIdealPessoa.Form1.resources
+C:\Users\vizan\source\repos\PesoIdealPessoa\PesoIdealPessoa\obj\Debug\PesoIdealPessoa.Properties.Resources.resources
+C:\Users\vizan\source\repos\PesoIdealPessoa\PesoIdealPessoa\obj\Debug\PesoIdealPessoa.csproj.GenerateResource.cache
+C:\Users\vizan\source\repos\PesoIdealPessoa\PesoIdealPessoa\obj\Debug\PesoIdealPessoa.csproj.CoreCompileInputs.cache
+C:\Users\vizan\source\repos\PesoIdealPessoa\PesoIdealPessoa\obj\Debug\PesoIdealPessoa.exe
+C:\Users\vizan\source\repos\PesoIdealPessoa\PesoIdealPessoa\obj\Debug\PesoIdealPessoa.pdb
