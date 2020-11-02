@@ -1,0 +1,10 @@
+C:\Users\vizan\Documents\FATEC\2º semestre\Lógica de Programação II\Solucoes\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.exe.config
+C:\Users\vizan\Documents\FATEC\2º semestre\Lógica de Programação II\Solucoes\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.exe
+C:\Users\vizan\Documents\FATEC\2º semestre\Lógica de Programação II\Solucoes\CalculoSalario\CalculoSalario\bin\Debug\CalculoSalario.pdb
+C:\Users\vizan\Documents\FATEC\2º semestre\Lógica de Programação II\Solucoes\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csprojAssemblyReference.cache
+C:\Users\vizan\Documents\FATEC\2º semestre\Lógica de Programação II\Solucoes\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.Form1.resources
+C:\Users\vizan\Documents\FATEC\2º semestre\Lógica de Programação II\Solucoes\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.Properties.Resources.resources
+C:\Users\vizan\Documents\FATEC\2º semestre\Lógica de Programação II\Solucoes\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.GenerateResource.cache
+C:\Users\vizan\Documents\FATEC\2º semestre\Lógica de Programação II\Solucoes\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.csproj.CoreCompileInputs.cache
+C:\Users\vizan\Documents\FATEC\2º semestre\Lógica de Programação II\Solucoes\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.exe
+C:\Users\vizan\Documents\FATEC\2º semestre\Lógica de Programação II\Solucoes\CalculoSalario\CalculoSalario\obj\Debug\CalculoSalario.pdb
